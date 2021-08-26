@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 *Q: Which coin had the highest compound score?*
 
-**A: Bitcoin with the scotre of 0.8834000**
+**A: Bitcoin with the score of 0.8834000**
 
 *Q. Which coin had the highest positive score?*
 
