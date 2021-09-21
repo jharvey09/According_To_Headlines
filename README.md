@@ -3,7 +3,7 @@ ________________________________________________________________________________
 ### Decrypting Cryptocurrencies through Natural Language Processing (NLP):
 ![sentimental](https://user-images.githubusercontent.com/80294571/130220294-922756ad-9914-45f9-97c6-1bb5cba0bb97.jpeg)
 In this project I will apply natural language processing to understand the sentiment in the latest article featuring Bitcoin &amp; Ethereum.
-Also I will apply fundamental NLP techniques to better understand the other factors involved with the coin prices focusing on common words, phrases, organizations, and entites mentioned.
+Also I will apply fundamental NLP techniques to better understand the other factors involved with the coin prices focusing on common words, phrases, organizations, and entities mentioned.
 Questions encompassing the *"sentiment"* is; what are articles saying about different cryptocurrencies? What is the current public sentiment surrounding these coins? NewsApi and NLTK *(Natural Language Tool Kit)* library utilized.
 
 ### Table Of Contents:
